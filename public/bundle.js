@@ -50,6 +50,8 @@
 	    value: true
 	});
 
+	__webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"./estilo.css\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
+
 	__webpack_require__(1);
 
 	exports.default = function (props) {
